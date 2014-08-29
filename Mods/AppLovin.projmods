@@ -1,0 +1,11 @@
+{
+    "group": "Store",
+    "libs": [],
+    "frameworks": ["AdSupport.framework", "AVFoundation.framework", "CoreTelephony.framework", "CoreGraphics.framework", "CoreMedia.framework", "MediaPlayer.framework", "SystemConfiguration.framework", "UIKit.framework"],
+    "headerpaths": [],                    
+    "files":   [],
+    "folders": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": []
+}
