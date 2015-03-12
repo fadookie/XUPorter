@@ -1,5 +1,5 @@
 {
-    "group": "Store",
+    "group": "AppLovinXUPorter",
     "libs": [],
     "frameworks": ["AdSupport.framework", "AVFoundation.framework", "CoreTelephony.framework", "CoreGraphics.framework", "CoreMedia.framework", "MediaPlayer.framework", "SystemConfiguration.framework", "UIKit.framework"],
     "headerpaths": [],                    

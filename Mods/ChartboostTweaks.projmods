@@ -1,0 +1,11 @@
+{
+    "group": "ChartboostTweaksXUPorter",
+    "libs": [],
+    "frameworks": ["CoreData.framework"],
+    "headerpaths": [],                    
+    "files":   [],
+    "folders": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": []
+}
